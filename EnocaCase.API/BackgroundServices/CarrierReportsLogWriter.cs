@@ -29,6 +29,7 @@ namespace EnocaCase.API.BackgroundServices
             foreach (var item in reports)
             {
                 var carrier =await _carriersService.GetByIdAsync(item.CarrierId);
+                 await _carrierReportsService.AddAsync(item);
 
                 Console.WriteLine($"{item.CarrierReportDate} tarihinde 1 saatlik bölümde {carrier.CarrierName} isimli kargo firmasına {item.Cost} tutarında ödeme yapılmıştır");
             }
