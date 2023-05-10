@@ -1,0 +1,17 @@
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Repository\bin\Debug\net6.0\EnocaCase.Repository.deps.json
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Repository\bin\Debug\net6.0\EnocaCase.Repository.runtimeconfig.json
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Repository\bin\Debug\net6.0\EnocaCase.Repository.dll
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Repository\bin\Debug\net6.0\EnocaCase.Repository.pdb
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Repository\bin\Debug\net6.0\EnocaCase.Core.dll
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Repository\bin\Debug\net6.0\EnocaCase.Core.pdb
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Repository\obj\Debug\net6.0\EnocaCase.Repository.csproj.AssemblyReference.cache
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Repository\obj\Debug\net6.0\EnocaCase.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Repository\obj\Debug\net6.0\EnocaCase.Repository.AssemblyInfoInputs.cache
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Repository\obj\Debug\net6.0\EnocaCase.Repository.AssemblyInfo.cs
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Repository\obj\Debug\net6.0\EnocaCase.Repository.csproj.CoreCompileInputs.cache
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Repository\obj\Debug\net6.0\EnocaCase.Repository.csproj.CopyComplete
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Repository\obj\Debug\net6.0\EnocaCase.Repository.dll
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Repository\obj\Debug\net6.0\refint\EnocaCase.Repository.dll
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Repository\obj\Debug\net6.0\EnocaCase.Repository.pdb
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Repository\obj\Debug\net6.0\EnocaCase.Repository.genruntimeconfig.cache
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Repository\obj\Debug\net6.0\ref\EnocaCase.Repository.dll

@@ -12,7 +12,6 @@ namespace EnocaCase.Core.Entities
         public Carriers Carriers { get; set; }
 
         public int CarrierId { get; set; } 
-        public int MaxDesi { get; set; }
 
         public int CarrierMaxDesi { get; set; }
 

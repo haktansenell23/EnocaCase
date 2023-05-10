@@ -4,14 +4,14 @@
     "C:\\Users\\hakta\\OneDrive\\Masaüstü\\Emre\\repo\\EnocaCase\\EnocaCase.Service\\EnocaCase.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hakta\\OneDrive\\Masaüstü\\Emre\\repo\\EnocaCase\\EnocaCase.Service\\EnocaCase.Service.csproj": {
+    "C:\\Users\\hakta\\OneDrive\\Masaüstü\\Emre\\repo\\EnocaCase\\EnocaCase.Core\\EnocaCase.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hakta\\OneDrive\\Masaüstü\\Emre\\repo\\EnocaCase\\EnocaCase.Service\\EnocaCase.Service.csproj",
-        "projectName": "EnocaCase.Service",
-        "projectPath": "C:\\Users\\hakta\\OneDrive\\Masaüstü\\Emre\\repo\\EnocaCase\\EnocaCase.Service\\EnocaCase.Service.csproj",
+        "projectUniqueName": "C:\\Users\\hakta\\OneDrive\\Masaüstü\\Emre\\repo\\EnocaCase\\EnocaCase.Core\\EnocaCase.Core.csproj",
+        "projectName": "EnocaCase.Core",
+        "projectPath": "C:\\Users\\hakta\\OneDrive\\Masaüstü\\Emre\\repo\\EnocaCase\\EnocaCase.Core\\EnocaCase.Core.csproj",
         "packagesPath": "C:\\Users\\hakta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hakta\\OneDrive\\Masaüstü\\Emre\\repo\\EnocaCase\\EnocaCase.Service\\obj\\",
+        "outputPath": "C:\\Users\\hakta\\OneDrive\\Masaüstü\\Emre\\repo\\EnocaCase\\EnocaCase.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hakta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,152 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hakta\\OneDrive\\Masaüstü\\Emre\\repo\\EnocaCase\\EnocaCase.Repository\\EnocaCase.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hakta\\OneDrive\\Masaüstü\\Emre\\repo\\EnocaCase\\EnocaCase.Repository\\EnocaCase.Repository.csproj",
+        "projectName": "EnocaCase.Repository",
+        "projectPath": "C:\\Users\\hakta\\OneDrive\\Masaüstü\\Emre\\repo\\EnocaCase\\EnocaCase.Repository\\EnocaCase.Repository.csproj",
+        "packagesPath": "C:\\Users\\hakta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hakta\\OneDrive\\Masaüstü\\Emre\\repo\\EnocaCase\\EnocaCase.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hakta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\hakta\\OneDrive\\Masaüstü\\Emre\\repo\\EnocaCase\\EnocaCase.Core\\EnocaCase.Core.csproj": {
+                "projectPath": "C:\\Users\\hakta\\OneDrive\\Masaüstü\\Emre\\repo\\EnocaCase\\EnocaCase.Core\\EnocaCase.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hakta\\OneDrive\\Masaüstü\\Emre\\repo\\EnocaCase\\EnocaCase.Service\\EnocaCase.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hakta\\OneDrive\\Masaüstü\\Emre\\repo\\EnocaCase\\EnocaCase.Service\\EnocaCase.Service.csproj",
+        "projectName": "EnocaCase.Service",
+        "projectPath": "C:\\Users\\hakta\\OneDrive\\Masaüstü\\Emre\\repo\\EnocaCase\\EnocaCase.Service\\EnocaCase.Service.csproj",
+        "packagesPath": "C:\\Users\\hakta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hakta\\OneDrive\\Masaüstü\\Emre\\repo\\EnocaCase\\EnocaCase.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hakta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\hakta\\OneDrive\\Masaüstü\\Emre\\repo\\EnocaCase\\EnocaCase.Repository\\EnocaCase.Repository.csproj": {
+                "projectPath": "C:\\Users\\hakta\\OneDrive\\Masaüstü\\Emre\\repo\\EnocaCase\\EnocaCase.Repository\\EnocaCase.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

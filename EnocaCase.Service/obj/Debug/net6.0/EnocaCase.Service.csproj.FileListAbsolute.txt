@@ -1,0 +1,17 @@
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Service\bin\Debug\net6.0\EnocaCase.Service.deps.json
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Service\bin\Debug\net6.0\EnocaCase.Service.dll
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Service\bin\Debug\net6.0\EnocaCase.Service.pdb
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Service\bin\Debug\net6.0\EnocaCase.Core.dll
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Service\bin\Debug\net6.0\EnocaCase.Repository.dll
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Service\bin\Debug\net6.0\EnocaCase.Repository.pdb
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Service\bin\Debug\net6.0\EnocaCase.Core.pdb
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Service\obj\Debug\net6.0\EnocaCase.Service.csproj.AssemblyReference.cache
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Service\obj\Debug\net6.0\EnocaCase.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Service\obj\Debug\net6.0\EnocaCase.Service.AssemblyInfoInputs.cache
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Service\obj\Debug\net6.0\EnocaCase.Service.AssemblyInfo.cs
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Service\obj\Debug\net6.0\EnocaCase.Service.csproj.CoreCompileInputs.cache
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Service\obj\Debug\net6.0\EnocaCase.Service.csproj.CopyComplete
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Service\obj\Debug\net6.0\EnocaCase.Service.dll
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Service\obj\Debug\net6.0\refint\EnocaCase.Service.dll
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Service\obj\Debug\net6.0\EnocaCase.Service.pdb
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Service\obj\Debug\net6.0\ref\EnocaCase.Service.dll

@@ -1,0 +1,12 @@
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Core\bin\Debug\net6.0\EnocaCase.Core.deps.json
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Core\bin\Debug\net6.0\EnocaCase.Core.dll
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Core\bin\Debug\net6.0\EnocaCase.Core.pdb
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Core\obj\Debug\net6.0\EnocaCase.Core.csproj.AssemblyReference.cache
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Core\obj\Debug\net6.0\EnocaCase.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Core\obj\Debug\net6.0\EnocaCase.Core.AssemblyInfoInputs.cache
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Core\obj\Debug\net6.0\EnocaCase.Core.AssemblyInfo.cs
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Core\obj\Debug\net6.0\EnocaCase.Core.csproj.CoreCompileInputs.cache
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Core\obj\Debug\net6.0\EnocaCase.Core.dll
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Core\obj\Debug\net6.0\refint\EnocaCase.Core.dll
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Core\obj\Debug\net6.0\EnocaCase.Core.pdb
+C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\EnocaCase\EnocaCase.Core\obj\Debug\net6.0\ref\EnocaCase.Core.dll

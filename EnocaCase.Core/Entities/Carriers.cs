@@ -1,4 +1,4 @@
-﻿using System;
+﻿ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,6 +17,7 @@ namespace EnocaCase.Core.Entities
 
         public List< CarrierConfiguration> CarrierConfigurations { get; set; }
 
+        public List<CarrierReports>CarrierReports { get; set; } 
         public List <Orders> Orders { get; set; }
 
     }

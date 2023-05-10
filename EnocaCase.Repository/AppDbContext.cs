@@ -19,9 +19,10 @@ namespace EnocaCase.Repository
 
         public DbSet<CarrierConfiguration> CarrierConfigurations { get; set; }
 
+        public DbSet<CarrierReports> CarrierReports { get; set; }
 
 
-        public AppDbContext(DbContextOptions<AppDbContext> options) : base()
+        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
         {
 
         }

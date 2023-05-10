@@ -12,9 +12,9 @@ namespace EnocaCase.Core.Entities
 
         public int CarrierId { get; set; }
 
-        public int OrderDesi { get; set; }
+        public int OrderDesi { get; set; }//13 mesela 
 
-        public DateTime OrderDate { get; set; }
+        public DateTime OrderDate { get; set; }= DateTime.Now;  
 
         public decimal OrderCarrierCost { get; set; }
     }
